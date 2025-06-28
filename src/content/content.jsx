@@ -391,33 +391,51 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "A_Definir",
-      title: "A_Definir",
-      subtitle: "A_Definir",
-      labelInstagram: "Siga-nos no Instagram",
-      labelFacebook: "Siga-nos no Facebook",
-      labelLinkedin: "Siga-nos no LinkedIn",
-      labelX: "Siga-nos no X",
+      miniTag: "QUEM É O DR. ANDRÉ ANDRADE",
+      title: "Minha trajetória",
+      subtitle:
+        "Atendimento ético, acolhedor e moderno, com foco real na solução do problema.",
+      labelInstagram: "Siga-me no Instagram",
+      labelFacebook: "Siga-me no Facebook",
+      labelLinkedin: "Siga-me no LinkedIn",
+      labelX: "Siga-me no X",
       paragraph: (
         <div>
-          A_Definir
+          Comprometido com a excelência e com o bem-estar dos meus clientes,
+          atuo com ética, transparência e dedicação em cada etapa da demanda
+          apresentada.
           <br />
-          A_Definir
+          Meu trabalho começa ao entender profundamente o problema enfrentado
+          pelo cliente, acolhendo sua história e analisando todas as
+          possibilidades jurídicas viáveis.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          A_Definir
+          Comprometido com a excelência e com o bem-estar dos meus clientes,
+          atuo com ética, transparência e dedicação em cada etapa da demanda
+          apresentada.
           <br />
           <br />
-          A_Definir
+          Meu trabalho começa ao entender profundamente o problema enfrentado
+          pelo cliente, acolhendo sua história e analisando todas as
+          possibilidades jurídicas viáveis.
           <br />
           <br />
-          A_Definir
+          A partir daí, busco a melhor solução possível, combinando empatia com
+          objetividade, garantindo que o cliente compreenda cada passo do
+          processo.
           <br />
           <br />
-          A_Definir
+          Ofereço um atendimento moderno e acessível, com total organização e
+          estrutura para acompanhar a evolução da advocacia, incluindo
+          atendimentos e audiências online.
+          <br />
+          <br />
+          A diferença está na relação construída com cada cliente: lealdade,
+          pós-atendimento de qualidade e confiança mútua. Estou aqui para
+          transformar dificuldades jurídicas em caminhos possíveis e justos.
           <br />
           <br />
         </p>
@@ -431,14 +449,15 @@ const content = {
           imgSocial: aboutInstagram,
           alt: `Foto do Instagram do ${infos.name}`,
         },
-        miniTag: "A_Definir",
-        title: "A_Definir",
-        subtitle: "A_Definir",
+        miniTag: "REDES SOCIAIS",
+        title: "Conecte-se conosco",
+        subtitle:
+          "Aproveite nossas redes sociais para mantermos contato e ficar por dentro de atualizações importantes no mundo do direito.",
         paragraph: <p></p>,
-        labelInstagram: "Siga-nos no Instagram",
-        labelFacebook: "Siga-nos no Facebook",
-        labelLinkedin: "Siga-nos no LinkedIn",
-        labelX: "Siga-nos no X",
+        labelInstagram: "Siga-me no Instagram",
+        labelFacebook: "Siga-me no Facebook",
+        labelLinkedin: "Siga-me no LinkedIn",
+        labelX: "Siga-me no X",
       },
     },
     cta: {
