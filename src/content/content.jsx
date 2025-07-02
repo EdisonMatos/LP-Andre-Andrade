@@ -55,7 +55,7 @@ const currentYear = new Date().getFullYear();
 export const infos = {
   name: "Dr. André Andrade",
   email: "contato", // Email desejado pelo cliente
-  emailSecundario: "A_Definir", // Email desejado pelo cliente
+  emailSecundario: "andreluizdeandrade.advocacia@gmail.com", // Email desejado pelo cliente
   domain: "advocaciaandreandrade.com.br", // Sem "www"
   phone: {
     ddd: "16",
